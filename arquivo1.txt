@@ -1,3 +1,5 @@
 Bom dia turma
 Dificultando o merge
 Segunda alteração no arquivo
+
+Alterações em dev
